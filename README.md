@@ -5,11 +5,12 @@ By the end of this course, you will be able to:
 - **Collect, clean, and analyze data**
 - **Build and train machine learning models**
 - **Deploy machine learning models to production**
+
 This course is perfect for beginners who want to learn the basics of data science and machine learning. No prior experience is required.
 
 Here are some of the topics that will be covered in the course:
 - Introduction to data science
-- Python programming
+- Python Programming
 - NumPy
 - Pandas
 - Visualization
