@@ -24,3 +24,6 @@ Here are some of the topics that will be covered in the course:
 - Hugging Face, Langchain, LLMs
 - MLOps
 - Deployment Using AWS
+
+
+<img src="https://static.javatpoint.com/tutorial/machine-learning/images/data-science-vs-machine-learning.png" align="center">
