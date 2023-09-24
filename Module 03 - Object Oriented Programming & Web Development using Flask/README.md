@@ -12,7 +12,7 @@
 - OOP Best Practices
 
 
-## Web Development using Flask
+## Web Development using Flask/FastAPI/Streamlit
 
 - Introduction to Web Development
 - Setting up Flask Environment
