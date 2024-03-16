@@ -11,7 +11,7 @@ roll no,name,age,address,session,group,gender,subj1,subj2,scholarship
 10,Hassan,15,Lahore,AFTERNOON,group D,Male,90.5,81.3,3800
 11,Hussein,12,Islamabad,MOR,group B,Male,90.5,81.3,6000
 12,Muskan,20,Karachi,AFTERNOON,group C,Female,90.5,81.3,
-13,Yusuf,18,Lahore,MORNING,group D,Male,,76.5,7000
+13,Yusuf,18,Lahore,MORNING,,Male,,76.5,7000
 14,Amina,28,Multan,AFTERNOON,group A,Female,84.1,76,8000
 15,Khubaib,13,Sialkot,AFT,group C,Male,90.5,81.3,3500
 16,Dua,11,Multan,AFTERNOON,group A,Female,90.5,81.3,3800
